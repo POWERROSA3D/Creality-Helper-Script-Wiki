@@ -206,6 +206,7 @@ nav:
             - Boards Layout: others/boards-layout-k1.md
         - Files Location: others/files-location.md
         - Useful Links: others/useful-links.md
+        - Claude Opus — STEP File Generator: others/claude-step-file-generator.md
     - Slicers: 
         - OrcaSlicer: slicers/orcaslicer.md
     - STL Files: 
